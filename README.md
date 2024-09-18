@@ -1,3 +1,7 @@
+#visit
+
+https://dhivyak2004.github.io/Git-user-search-App/
+
 # GitHub User Search App
 
 This is a simple web application that allows users to search for GitHub users by their username. It fetches user data from the GitHub API and displays the user's avatar, username, name, location, and total number of repositories.
